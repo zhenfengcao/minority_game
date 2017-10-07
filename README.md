@@ -16,4 +16,4 @@ matplotlib,
 numpy
 
 ## Documentation:
-
+http://zcao.info/2017/10/06/a-python-code-for-the-basic-minority-game-mg/
